@@ -9,7 +9,6 @@ Descobrindo esse maravilhoso e incrível mundo da programação! Aprendendo cada
 
 Send a email felipe_ddn_@hotmail.com or felipedantasdonascimento@gmail.com
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently unemployed ...
 - 🌱 I’m currently learning in Fatec, Recode e RocketSeat NLW4. 
