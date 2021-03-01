@@ -14,7 +14,7 @@ Send a email felipe_ddn_@hotmail.com or felipedantasdonascimento@gmail.com
 - 🌱 I’m currently learning in Fatec, Recode e RocketSeat NLW4. 
 
 
-- 💬 Ask me about, você é livre e sempre respondo o que for possível.
+- 💬 Ask me about, você é livre para me perguntar o que quiser e sempre respondo o que for possível.
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-nascimento-1ba42bb2/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
