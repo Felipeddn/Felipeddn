@@ -20,5 +20,4 @@ Send a email felipe_ddn_@hotmail.com or felipedantasdonascimento@gmail.com
 - ⚡ Fun fact: ...
 
 objetivos de aprendizado futuro (coisas pequenas que podemos tirar um tempo e melhorar algo)
-- [ ] https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
-- [ ] https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/
+- [ ] Maratona Discover
